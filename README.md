@@ -1,2 +1,10 @@
-# pokedex-guide-project
-html css ve js ile pokemon sayfasi olusturdum. once html de pokemon olusturdum css de sekillendirdim sonra da js de dinamik hale getirdim. html de yazdigim pokemon kodlarini js den sonra sildim. cok guzel bir proje oldu.
+Pokedex-Guide
+Bu proje, JavaScript kullanarak geliştirilmiş interaktif bir Pokedex rehberidir. Pokemon hayranları için tasarlanmış olan bu rehber, kullanıcıların herhangi bir Pokemon'un detaylı bilgilerini bulmalarına yardımcı olur. Projede, Pokemon'un resmi, türleri, yetenekleri, istatistikleri ve daha fazlası gibi çeşitli bilgiler bulunmaktadır.
+
+JavaScript, HTML, CSS kullanarak tasarlandı.
+
+Kullanım
+Pokedex'te arama çubuğunu kullanarak istediğiniz Pokemon'u arayın.
+-Arama sonuçlarından istediğiniz Pokemon'u seçin.
+
+Pokemon'un resmi, türleri, istatistikleri ve diğer bilgileri görüntüleyin.
